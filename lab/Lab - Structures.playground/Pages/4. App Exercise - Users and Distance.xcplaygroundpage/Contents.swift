@@ -3,7 +3,7 @@
  
  >These exercises reinforce Swift concepts in the context of a math tutoring app.
  
- For most apps you'll need to have a data structure to hold information about a user. Create a `User` struct that has properties for basic information about a user. At a minimum, it should have properties to represent a user's name, age, grade, class, and achievement level. You could do this by having `name` be a `String`, `age` and `grade` be an `Int`, `class` be of type `String`, and `achievementLevel` be an `Int` that will represent a scoring 1-10 of how far along they are in the course. Implement this now. (.5 points)
+ For most apps you'll need to have a data structure to hold information about a user. Create a `User` struct that has properties for basic information about a user. At a minimum, it should have properties to represent a user's name, age, grade, class, and achievement level. You could do this by having `name` be a `String`, `age` and `grade` be an `Int`, `theClass` be of type `String`, and `achievementLevel` be an `Int` that will represent a scoring 1-10 of how far along they are in the course. Implement this now. (.5 points)
  */
 
 
